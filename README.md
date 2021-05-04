@@ -75,7 +75,12 @@ A reminder app where you can log your plants and be reminded of when they need t
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
+| Property | Type | Description |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+
+
 ### Models
 [Add table of models]
 ### Networking
