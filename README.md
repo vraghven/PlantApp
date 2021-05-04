@@ -71,6 +71,8 @@ A reminder app where you can log your plants and be reminded of when they need t
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+<img width="484" alt="Screen Shot 2021-05-03 at 6 58 48 PM" src="https://user-images.githubusercontent.com/68095380/116953280-b5ed1f80-ac41-11eb-92ba-0398c202331c.png">
+
 
 ### [BONUS] Interactive Prototype
 
